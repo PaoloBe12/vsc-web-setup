@@ -1,4 +1,4 @@
-$extensionsFile = "$env:USERPROFILE\.local\share\chezmoi\dot_AppData\Roaming\Code\Userextensions.json"
+$extensionsFile = "$env:USERPROFILE\.local\share\chezmoi\AppData\Roaming\Code\User\extensions.json"
 
 if (Test-Path $extensionsFile) {
     $extensions = Get-Content $extensionsFile | ConvertFrom-Json
