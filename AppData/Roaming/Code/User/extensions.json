@@ -1,25 +1,25 @@
 {
-    "recommendations": [
-      "onecentlin.laravel-blade",
-      "amiralizadeh9480.laravel-extra-intellisense",
-      "ryannaddy.laravel-artisan",
-      "bmewburn.vscode-intelephense-client",
-      "codingyu.laravel-goto-view",
-      "ahinkle.laravel-model-snippets",
-      "shufo.vscode-blade-formatter",
-      "bradlc.vscode-tailwindcss",
-      "vue.volar",
-      "esbenp.prettier-vscode",
-      "dbaeumer.vscode-eslint",
-      "mehedidracula.php-namespace-resolver",
-      "christian-kohler.path-intellisense",
-      "mikestead.dotenv",
-      "aaron-bond.better-comments",
-      "alefragnani.bookmarks",
-      "eamodio.gitlens",
-      "pkief.material-icon-theme",
-      "zhuangtongfa.material-theme",
-      "davidanson.vscode-markdownlint"
-    ]
-  }
-  
+  "recommendations": [
+    "onecentlin.laravel-blade",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "ryannaddy.laravel-artisan",
+    "bmewburn.vscode-intelephense-client",
+    "codingyu.laravel-goto-view",
+    "ahinkle.laravel-model-snippets",
+    "shufo.vscode-blade-formatter",
+    "bradlc.vscode-tailwindcss",
+    "vue.volar",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "mehedidracula.php-namespace-resolver",
+    "christian-kohler.path-intellisense",
+    "mikestead.dotenv",
+    "aaron-bond.better-comments",
+    "alefragnani.bookmarks",
+    "eamodio.gitlens",
+    "pkief.material-icon-theme",
+    "davidanson.vscode-markdownlint",
+    "naumovs.color-highlight",
+    "fierwhizkydee.material-palenight-theme"
+  ]
+}
