@@ -14,7 +14,8 @@
       "other": true,
       "comments": false,
       "strings": false
-    }
+    },
+    "editor.formatOnSave": true
   },
   "[vue]": {
     "editor.quickSuggestions": {
